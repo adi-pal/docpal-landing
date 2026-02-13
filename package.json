@@ -1,0 +1,8 @@
+{
+  "name": "docpal-landing",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve static -l $PORT"
+  }
+}
