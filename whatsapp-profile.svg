@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <!-- Background circle -->
+  <circle cx="400" cy="400" r="400" fill="#059669"/>
+
+  <!-- Medical cross -->
+  <rect x="275" y="200" width="250" height="400" rx="50" ry="50" fill="white"/>
+  <rect x="200" y="275" width="400" height="250" rx="50" ry="50" fill="white"/>
+
+  <!-- Heart in center -->
+  <g transform="translate(400, 390) scale(1.8)">
+    <path d="M0 20 C0 20, -30 -5, -18 -18 C-8 -28, 0 -15, 0 -10 C0 -15, 8 -28, 18 -18 C30 -5, 0 20, 0 20Z" fill="#059669"/>
+  </g>
+</svg>
